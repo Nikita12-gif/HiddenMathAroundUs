@@ -13,7 +13,3 @@
 MIT License.  
 
 ✉️ **Контакты**: nik.official00@mail.ru
-
-```bash
-git clone https://github.com/Никита12-gif/MathInRealLife.git
-pip install -r requirements.txt
